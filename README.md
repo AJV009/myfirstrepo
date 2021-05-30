@@ -2,7 +2,7 @@
 MLH GItHub activity....
 ## MLH LocalHost
 ### My first repo changes
-[This is a google link](www.google.com)
+[This is a google link](https://www.google.com)
 
 *Alphons*
 ```python
